@@ -1,0 +1,7 @@
+﻿  main.cpp
+  memory_pool_simple.cpp
+D:\jhj\C++\c++code\C++_Code\memory_management\memory_management\memory_pool_simple.cpp(35,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\jhj\C++\c++code\C++_Code\memory_management\memory_management\memory_pool_simple.cpp(36,45): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+D:\jhj\C++\c++code\C++_Code\memory_management\memory_management\memory_pool_simple.cpp(50): warning C4715: “memInit”: 不是所有的控件路径都返回值
+  memory_management.vcxproj -> D:\jhj\C++\c++code\C++_Code\memory_management\x64\Debug\memory_management.exe
